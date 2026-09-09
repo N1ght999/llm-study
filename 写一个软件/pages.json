@@ -1,0 +1,18 @@
+{
+	"pages": [
+		{
+			"path": "pages/chat/chat",
+			"style": {
+				"navigationBarTitleText": "智能对话",
+				"navigationBarBackgroundColor": "#ffffff",
+				"navigationBarTextStyle": "black"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "智能对话",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}
